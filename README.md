@@ -36,11 +36,8 @@ Here’s a glimpse into some of my projects:
 - 🔦 **Li-Fi Based Text Transmission System**  
   Designed a secure and low-cost wireless data transmission system using LEDs and photodiodes.
 
-- 🧮 **Low-Power 16x16 Multiplier using SPST**  (UNDER PROCESS COMPLETES AFTER 6-7 MONTHS)
-  Built a Verilog-based multiplier architecture targeting power optimization on FPGA (Xilinx Vivado).
-
 - 📍 **Office Seat Planner Web App**  
-  Real-time seat management tool using Flask, PostgreSQL, and React.js for optimized office space utilization.
+  Real-time seat management tool using Flask and React.js for optimized office space utilization.
 
 Explore my repositories to see more hands-on projects !
 
