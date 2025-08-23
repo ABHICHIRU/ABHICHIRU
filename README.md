@@ -3,7 +3,7 @@
 🎓 **Electronics and Communication Engineering | 3rd Year**  
 🏫 KS School of Engineering and Management (KSSEM)  
 🔧 Passionate about **VLSI** and **Embedded Systems**  
-👥 Treasurer – **SPS@IEEE KSSEM** | Member – **Rotaract Club RACKSSEM**
+👥 Treasurer – **sensor's council @IEEE KSSEM** | Member – **Rotaract Club RACKSSEM**
 
 ---
 
