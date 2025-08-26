@@ -14,7 +14,7 @@ I am a highly motivated and enthusiastic engineering student specializing in **E
 - ✅ Digital Elctronics 
 - ✅ VLSI System Design (Verilog, FPGA)  
 - ✅ Embedded Systems (ARM,  Arduino, STM32)  
-- ✅ PCB Design & Simulation (Altium)  
+- ✅ PCB Design (Altium)  
 - ✅ MATLAB & Python for Signal Processing  
 
 I thrive in **collaborative environments** where I can apply both technical and soft skills to build innovative solutions. I enjoy taking initiative, solving real-world problems, and continuously expanding my technical knowledge.
