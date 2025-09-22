@@ -29,15 +29,36 @@ I thrive in **collaborative environments** where I can apply both technical and 
 
 ---
 
-## 🚀 Projects & Contributions
+## 🚀 Projects
 
-Here’s a glimpse into some of my projects:
+### 🔹 Li-Fi Based Text Transmission System
+- Implemented a low-cost and secure wireless data transmission channel using visible light (Li-Fi).
+- Designed transmitter and receiver circuits with LEDs and photodiodes.
+- Focused on error detection, correction, and noise resilience.
 
-- 🔦 **Li-Fi Based Text Transmission System**  
-  Designed a secure and low-cost wireless data transmission system using LEDs and photodiodes.
+### 🔹 AXI-Stream Based DSP Accelerator with Low-Power 8×8 Multiplier (SPST)
+- Designed and implemented a **DSP accelerator** using the **AXI-Stream protocol** in Verilog.  
+- Integrated a **low-power 8×8 multiplier** based on the **Spurious Power Suppression Technique (SPST)**.  
+- Implemented pipelining to improve throughput while reducing switching activity and dynamic power.  
+- Verified functionality with simulation testbenches and ensured AXI-Stream protocol compliance.  
+- Deployed on FPGA with synthesis, timing, and power analysis reports.
 
-- 📍 **Office Seat Planner Web App**  
-  Real-time seat management tool using Flask and React.js for optimized office space utilization.
+### 🔹 Low-Power 16×16 Multiplier using SPST
+- Implemented a **Spurious Power Suppression Technique (SPST)** based multiplier on FPGA.  
+- Conducted trade-off analysis covering power, area, and speed.  
+- Generated synthesis, simulation, and power estimation reports.  
+- Demonstrated significant reduction in switching activity and dynamic power consumption.
+
+### 🔹 Image Denoising with MATLAB
+- Applied multiple spatial filters (Median, Min/Max, Midpoint, Alpha-Trimmed Mean) to noisy grayscale images.  
+- Compared performance visually and through quantitative metrics (PSNR, MSE).  
+- Automated saving of filtered outputs for side-by-side comparison.
+
+### 🔹 ElectroStorm – Robotics Hackathon Project
+- Autonomous mobile robot designed during **KSIT Hackathon 2025**.  
+- Integrated sensors for obstacle detection and black-line following.  
+- Implemented real-time navigation and embedded control algorithms.
+
 
 Explore my repositories to see more hands-on projects !
 
