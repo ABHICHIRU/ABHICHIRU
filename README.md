@@ -12,8 +12,7 @@
 I am a highly motivated and enthusiastic engineering student specializing in **Electronics and Communication Engineering**. My core interests lie in:
 
 - ✅ Digital Electronics
-- ✅ VLSI System Design (Verilog, FPGA)
-- ✅ Embedded Systems (ARM, Arduino, STM32)
+- ✅ VLSI System Design (Verilog)
 - ✅ PCB Design (Altium)
 - ✅ MATLAB & Python for Signal Processing
 
