@@ -56,8 +56,6 @@ I thrive in **collaborative environments** where I can apply both technical and 
 ### 🔹 Image Denoising System in MATLAB
 
 - Implemented multiple spatial filters for grayscale images.  
-- Evaluated with PSNR and MSE metrics.  
-- Automated batch processing and output generation.
 
 ### 🔹 ElectroStorm Autonomous Mobile Robot
 
