@@ -22,7 +22,7 @@ I thrive in **collaborative environments** where I can apply both technical and 
 
 ## 💼 Current Roles & Activities
 
-- 🎖 **Treasurer**, Sensors Council @IEEE KSSEM – Supporting technical events, student mentorship, and IEEE chapter coordination.  
+- 🎖 **EX-Treasurer**, Sensors Council @IEEE KSSEM – Supporting technical events, student mentorship, and IEEE chapter coordination.  
 - 🤝 **Member**, Rotaract Club RACKSSEM – Contributing to social initiatives, volunteer work, and community development projects.  
 - 🧠 Active participant in technical hackathons, workshops, and conferences in ECE domains.
 
