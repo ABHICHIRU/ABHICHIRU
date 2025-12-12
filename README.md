@@ -11,8 +11,6 @@
 
 ## 🛠️ Core Expertise
 - 🔧 **VLSI Design** (Verilog, Cadence Genus/Innovus, Timing Analysis)
-- ⚡ **Digital Design** (Multipliers: SPST, Vedic, Booth | DSP Accelerators)
-- 🖥️ **Embedded Systems** (AXI-Stream, FPGA, Microcontrollers)
 - 📊 **Signal Processing** (MATLAB, Python, FFT Implementation)
 - 🏗️ **Physical Design** (Placement, CTS, Power Planning)
 
