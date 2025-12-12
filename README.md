@@ -25,14 +25,6 @@
 | **Li-Fi Text Transmission** | LED/Photodiode, Embedded C | Secure visible light communication | [![Demo](https://img.shields.io/badge/Demo-00D4AA?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo) |
 | **Order Filter (DIP)** | MATLAB, Digital Image Processing | Spatial filtering for image denoising & enhancement | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/ABHICHIRU/order-filter/raw/main/report.pdf) |
 
----
 
-## 📈 GitHub Stats
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHICHIRU&show_icons=true&theme=radical&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHICHIRU&layout=compact&theme=radical&hide_border=true)
-</div>
-
----
 
 *"Building efficient hardware, one gate at a time."* 💻⚡
