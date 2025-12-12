@@ -4,7 +4,8 @@
 💼 **PD Intern @ ACL Digital** | VLSI | Embedded Systems  
 👥 Ex-Treasurer, IEEE Sensors Council | Rotaract RACKSSEM
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhinandan-srikantha) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandan.srikantha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhinandan-srikantha)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandan.srikantha@gmail.com)
 
 ---
 
