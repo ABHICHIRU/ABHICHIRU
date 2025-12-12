@@ -20,7 +20,7 @@
 
 | Project | Tech Stack | Key Achievement | Links |
 |---------|------------|-----------------|-------|
-| **AXI-Stream DSP Accelerator** | Verilog, SPST Multiplier, Cadence Genus | **>7ns positive slack**, Low-power FFT pipeline | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABHICHIRU/axistream-dsp) |
+| **AXI-Stream DSP Accelerator** | Verilog, SPST Multiplier, Cadence Genus | **>7ps positive slack**, Low-power FFT pipeline | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABHICHIRU/axistream-dsp) |
 | **Li-Fi Text Transmission** | LED/Photodiode, Embedded C | Secure visible light communication | [![Demo](https://img.shields.io/badge/Demo-00D4AA?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo) |
 | **Order Filter (DIP)** | MATLAB, Digital Image Processing | Spatial filtering for image denoising & enhancement | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/ABHICHIRU/order-filter/raw/main/report.pdf) |
 
