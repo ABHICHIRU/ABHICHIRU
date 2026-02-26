@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhinandan Srikantha (ABHICHIRU)
 
-🎓 **Electronics & Communication Engg | 7th Sem** | KS School of Engineering  
+🎓 **Electronics & Communication Engg | 8th Sem** | KS School of Engineering  
 💼 **PD Intern @ ACL Digital** | VLSI | Embedded Systems  
 👥 Ex-Treasurer, IEEE Sensors Council | Rotaract RACKSSEM
 
